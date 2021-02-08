@@ -6,7 +6,7 @@
 
 #### 群主
 
-<img src="imgs/groupLeaderWechat.jpeg" alt="群主" style="zoom:33%;" />
+<img src="imgs/groupLeaderWechat.jpeg" alt="群主" width = 200 />
 
 #### 同济神，字节负责人
 
