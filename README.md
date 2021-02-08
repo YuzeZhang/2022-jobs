@@ -6,7 +6,7 @@
 
 #### 群主
 
-![群主]("img/groupLeaderWechat.jpeg")
+![群主]("imgs/groupLeaderWechat.jpeg")
 
 #### 同济神，字节负责人
 
