@@ -6,7 +6,7 @@
 
 #### 群主
 
-![群主]("imgs/groupLeaderWechat.jpeg")
+<img src="imgs/groupLeaderWechat.jpeg" alt="群主" style="zoom:33%;" />
 
 #### 同济神，字节负责人
 
